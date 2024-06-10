@@ -3,6 +3,7 @@ export const Colors = {
   BACKGROUND_STROKE_COLOR: '#00125A',
 
   WHITE: '#FFFFFF',
+  PRIMARY_GREY: '#EBEBEB',
   LIGHT_GREY: '#DFDFDF',
   DARK_GREY: '#36303F',
   BLACK: '#000000',

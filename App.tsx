@@ -17,6 +17,7 @@ import {
   AnimatedCarousel,
   StickyFooter,
 } from './src/components';
+import {Products} from './src/screens';
 
 export default function App() {
   return (
@@ -31,7 +32,8 @@ export default function App() {
       {/* <GalleryView /> */}
       {/* <AnimatedFlatlist /> */}
       {/* <AnimatedCarousel /> */}
-      <StickyFooter />
+      {/* <StickyFooter /> */}
+      <Products />
 
       {/* <PostCardList /> */}
     </>
